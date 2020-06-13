@@ -1,0 +1,6 @@
+name: MaterialTool
+version: ${project.version}
+main: com.iroselle.MaterialTool.bukkit.ToolMain
+authors:
+  - RoselleMC
+
